@@ -1,0 +1,1 @@
+-b --delay=2 --batch --current-user –current-db –users –passwords --tables  -v 5 --ignore-code=503

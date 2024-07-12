@@ -1,0 +1,1 @@
+http://oa.fspt.net:8088/taste/addTaste?company=1&userName=1&openid=1&source=1&mobile=1
