@@ -78,7 +78,7 @@ E:\BaiduSyncdisk\Notebook\easy-hack-tools\fuzz-sqlmap
 
 ### 版权信息
 
-作者: Spritualkb作者： Spritualkb
+作者: Spritualkb
 版本: 1.0
 描述: 本脚本用于批量测试指定的 URL 或包含 HTTP 请求的文件是否存在 SQL 注入漏洞。
 
